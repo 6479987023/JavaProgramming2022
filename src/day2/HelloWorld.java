@@ -8,5 +8,7 @@ public class HelloWorld {
         System.out.print("lol");
         System.out.println("lol");
 
+        System.out.println("ADD");
+
     }
 }
